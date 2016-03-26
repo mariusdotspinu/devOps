@@ -1,2 +1,2 @@
 #DevOps training
- ##Python snippets and more to come
+##Python snippets and more to come
